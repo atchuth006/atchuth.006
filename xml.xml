@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books xmlns:g="ssi">
+<g:book>
+<g:name> wt</g:name>
+<g:author>uday sir</g:author>
+<g:pages>230</g:pages>
+<g:marks>556</g:marks>
+</g:book>
+<a:book >
+<g:name> wt</g:name>
+<g:author>udaysir</g:author>
+<g:pages>230        </g:pages>
+<g:pagess>230         </g:pagess>
+</a:book>
+</books>
+
+
+
